@@ -24,17 +24,21 @@
 >
 > — **Meta Platforms, Inc.**, reactivation determination, 9 June 2026
 
+<p align="center">
+  <img src="evidence/emails/meta-reactivation-2026-06-09.png" width="72%" alt="Meta reactivation determination, 9 June 2026 — recipient address redacted">
+</p>
+
+<p align="center"><sub><strong>Reactivation determination.</strong> Recipient address redacted. Verbatim text: <a href="evidence/INDEX.md"><code>evidence/INDEX.md</code></a> → <em>Restoration Correspondence</em>.</sub></p>
+
 > *"We're sorry that we've got this wrong and that you weren't able to use Instagram for a while."*
 >
 > — **Instagram / Meta Platforms, Inc.**, restoration notice, 12 June 2026
 
 <p align="center">
-  <img src="evidence/emails/meta-reactivation-2026-06-09.png" width="46%" alt="Meta reactivation determination, 9 June 2026 — recipient address redacted">
-  &nbsp;&nbsp;
-  <img src="evidence/emails/instagram-restoration-2026-06-12.png" width="46%" alt="Instagram restoration notice and apology, 12 June 2026 — recipient address redacted">
+  <img src="evidence/emails/instagram-restoration-2026-06-12.png" width="72%" alt="Instagram restoration notice and apology, 12 June 2026 — recipient address redacted">
 </p>
 
-<p align="center"><sub><strong>The receipts.</strong> Left: Meta's reactivation determination (9 Jun). Right: Instagram's restoration notice and written apology (12 Jun). Recipient addresses redacted. Verbatim text: <a href="evidence/INDEX.md"><code>evidence/INDEX.md</code></a> → <em>Restoration Correspondence</em>.</sub></p>
+<p align="center"><sub><strong>Restoration notice and written apology.</strong> Recipient address redacted. Verbatim text: <a href="evidence/INDEX.md"><code>evidence/INDEX.md</code></a> → <em>Restoration Correspondence</em>.</sub></p>
 
 A permanently disabled Instagram account — closed after identity verification, with **no further appeal permitted** — was restored in **18 days** through a coordinated legal, technical, and security-research campaign. The campaign identified a novel attack vector in Instagram's enforcement architecture and reported it simultaneously to Meta's CLO, CISO, CIB Director, Head of Instagram, and the California Attorney General.
 

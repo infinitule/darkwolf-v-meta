@@ -1,0 +1,124 @@
+<svg width="1280" height="440" viewBox="0 0 1280 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dark Wolf India versus Meta Platforms, Inc. — Attribution poisoning via Instagram __d= referral injection, resolved in 18 days.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E14"/>
+      <stop offset="0.5" stop-color="#111722"/>
+      <stop offset="1" stop-color="#080B11"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.75">
+      <stop offset="0" stop-color="#1B2534" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0A0E14" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2F6FA"/>
+      <stop offset="0.55" stop-color="#C2CCD8"/>
+      <stop offset="1" stop-color="#8B97A6"/>
+    </linearGradient>
+    <linearGradient id="meta" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0081FB"/>
+      <stop offset="1" stop-color="#0064E0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6B03C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F6B03C"/>
+      <stop offset="1" stop-color="#0081FB" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="eye" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFE7A8"/>
+      <stop offset="0.5" stop-color="#F6B03C"/>
+      <stop offset="1" stop-color="#C9760A"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1280" height="440" fill="url(#bg)"/>
+  <rect width="1280" height="440" fill="url(#glow)"/>
+
+  <!-- topology rings behind Meta -->
+  <g stroke="#2A3546" fill="none" opacity="0.35">
+    <circle cx="940" cy="190" r="150"/>
+    <circle cx="940" cy="190" r="112"/>
+    <circle cx="940" cy="190" r="74"/>
+  </g>
+  <!-- network nodes behind wolf -->
+  <g fill="#2A3546" opacity="0.5">
+    <circle cx="230" cy="120" r="3"/><circle cx="470" cy="150" r="3"/>
+    <circle cx="150" cy="300" r="3"/><circle cx="410" cy="310" r="3"/>
+    <circle cx="330" cy="90" r="2.5"/><circle cx="90" cy="200" r="2.5"/>
+  </g>
+  <g stroke="#212C3C" stroke-width="1" opacity="0.5">
+    <line x1="230" y1="120" x2="330" y2="90"/>
+    <line x1="150" y1="300" x2="410" y2="310"/>
+    <line x1="90" y1="200" x2="230" y2="120"/>
+  </g>
+
+  <!-- kicker -->
+  <text x="640" y="54" text-anchor="middle" fill="#7E8CA0" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="5">ATTRIBUTION POISONING · RESPONSIBLE DISCLOSURE · 18-DAY RESOLUTION</text>
+
+  <!-- center divider + versus -->
+  <line x1="640" y1="118" x2="640" y2="300" stroke="#2C384A" stroke-width="1.5"/>
+  <text x="640" y="222" text-anchor="middle" fill="#F6B03C" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="70" font-weight="700">v.</text>
+
+  <!-- ===== WOLF EMBLEM (left) ===== -->
+  <g transform="translate(196,48) scale(0.78)">
+    <!-- silhouette -->
+    <path d="M120,60 L168,150 L202,150 L250,60 L262,150 L250,215 L210,270 L185,300 L160,270 L120,215 L108,150 Z"
+          fill="url(#silver)" stroke="#6E7A89" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- facet shading -->
+    <path d="M168,150 L185,188 L202,150 Z" fill="#9AA6B4" opacity="0.55"/>
+    <path d="M120,215 L160,270 L185,300 L185,188 L168,150 L108,150 Z" fill="#000000" opacity="0.06"/>
+    <path d="M262,150 L250,215 L210,270 L185,300 L185,188 L202,150 Z" fill="#FFFFFF" opacity="0.10"/>
+    <path d="M160,270 L185,240 L210,270 L185,300 Z" fill="#8894A2" opacity="0.65"/>
+    <!-- facet lines -->
+    <g stroke="#5A6472" stroke-width="1" opacity="0.55" fill="none">
+      <line x1="185" y1="188" x2="185" y2="300"/>
+      <line x1="168" y1="150" x2="160" y2="270"/>
+      <line x1="202" y1="150" x2="210" y2="270"/>
+    </g>
+    <!-- eyes -->
+    <polygon points="140,172 164,166 160,184 146,188" fill="url(#eye)"/>
+    <polygon points="230,172 206,166 210,184 224,188" fill="url(#eye)"/>
+    <polygon points="140,172 164,166 160,184 146,188" fill="#F6B03C" opacity="0.5" filter="url(#soft)"/>
+    <polygon points="230,172 206,166 210,184 224,188" fill="#F6B03C" opacity="0.5" filter="url(#soft)"/>
+    <!-- nose -->
+    <polygon points="178,286 192,286 185,301" fill="#3A424E"/>
+  </g>
+
+  <!-- ===== META INFINITY MARK (right) ===== -->
+  <g>
+    <path d="M940,190 C910,144 862,144 862,190 C862,236 910,236 940,190 C970,144 1018,144 1018,190 C1018,236 970,236 940,190 Z"
+          fill="none" stroke="url(#meta)" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M940,190 C910,144 862,144 862,190 C862,236 910,236 940,190 C970,144 1018,144 1018,190 C1018,236 970,236 940,190 Z"
+          fill="none" stroke="#5AB0FF" stroke-width="7" stroke-linejoin="round" opacity="0.55"/>
+  </g>
+
+  <!-- party names -->
+  <text x="340" y="332" text-anchor="middle" fill="#EAF0F6" font-family="'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1.5">DARK WOLF INDIA</text>
+  <text x="340" y="356" text-anchor="middle" fill="#7E8CA0" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="12.5" letter-spacing="2">INDIAN MSME · UDYAM-CH-01-0045213</text>
+
+  <text x="940" y="332" text-anchor="middle" fill="#EAF0F6" font-family="'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1.5">META PLATFORMS, INC.</text>
+  <text x="940" y="356" text-anchor="middle" fill="#7E8CA0" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="12.5" letter-spacing="2">NASDAQ: META</text>
+
+  <!-- accent rule -->
+  <rect x="120" y="378" width="1040" height="2" fill="url(#rule)"/>
+
+  <!-- status pills -->
+  <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">
+    <g>
+      <rect x="414" y="392" width="122" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.04" stroke="#34D399" stroke-opacity="0.5"/>
+      <circle cx="432" cy="406" r="4" fill="#34D399"/>
+      <text x="446" y="410" fill="#CFE9DE">RESOLVED</text>
+    </g>
+    <g>
+      <rect x="552" y="392" width="152" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.15"/>
+      <text x="628" y="410" text-anchor="middle" fill="#C7D0DA">WRITTEN APOLOGY</text>
+    </g>
+    <g>
+      <rect x="720" y="392" width="150" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.15"/>
+      <text x="795" y="410" text-anchor="middle" fill="#C7D0DA">3 JURISDICTIONS</text>
+    </g>
+  </g>
+</svg>

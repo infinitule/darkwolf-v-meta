@@ -1,0 +1,5 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Keep the case banner out of GitHub's language stats
+assets/banner.svg linguist-generated=true

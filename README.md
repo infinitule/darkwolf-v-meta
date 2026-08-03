@@ -5,7 +5,7 @@
 <h1 align="center">Dark Wolf India <em>v.</em> Meta Platforms, Inc.</h1>
 
 <p align="center">
-  <em>How a third-party bot network weaponized Instagram's own enforcement architecture against an Indian MSME —<br>and how one researcher dismantled it across three jurisdictions in 18 days.</em>
+  <em>How a third-party bot network weaponized Instagram's own enforcement architecture against an Indian MSME —<br>and how one researcher dismantled it across two jurisdictions in 18 days.</em>
 </p>
 
 <p align="center">
